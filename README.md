@@ -6,8 +6,6 @@ This project, "react_goods-selector," is a simple React application that allows 
 
 - **React:** The project is built using React, a popular JavaScript library for building user interfaces.
 
-- **Bulma CSS:** Bulma is used for basic CSS styling, providing a clean and responsive design.
-
 ## Project Description
 
 The "react_goods-selector" project is designed to demonstrate how to create a simple interactive component in React. It allows users to select and deselect items from a list of goods. Key features include:
@@ -19,6 +17,10 @@ The "react_goods-selector" project is designed to demonstrate how to create a si
 ## Origin
 
 This project was created as part of exercises at Mate Academy.
+
+## Demo
+
+You can see a live demo of this project [here](https://spojrzenie.github.io/react_goods-selector/).
 
 ## License
 
